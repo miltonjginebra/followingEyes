@@ -12,4 +12,4 @@
 <p>No support is provided with this code.</p>
 <br>
 <h3>Roadmap</h3>
-<p>I would like to include eye brows to simulate some gestures and maybe some accesories like glasses.</p>
+<p>I would like to include eyebrows to simulate some gestures and maybe some accesories like glasses.</p>
