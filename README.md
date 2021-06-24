@@ -1,4 +1,4 @@
-<h1>Pac-Men Exercise</h1>
+<h1>Following Eyes</h1>
 <h3>Description</h3>
 <p>This is a project for testing mouse events and programatically manipulating the DOM. You can test it yourself and feel free to help out.</p>
 <br>
